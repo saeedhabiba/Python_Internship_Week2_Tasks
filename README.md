@@ -1,6 +1,4 @@
-# 🐍 Python Week 2: Variables, Data Types & I/O
 
----
 ## 📘 What You'll Learn:
 - Declaring variables the Pythonic way
 - Exploring core data types: `int`, `float`, `str`, `bool`, `complex`
